@@ -1,0 +1,9 @@
+[user]
+        email = takahashi.tsc@ncos.nec.co.jp
+        name = Toshiaki Takahashi
+[core]
+        editor = vim
+[push]
+        default = simple
+[alias]
+        tree = log --oneline --graph --decorate
