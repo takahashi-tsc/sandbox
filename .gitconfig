@@ -2,7 +2,7 @@
         email = takahashi.tsc@ncos.nec.co.jp
         name = Toshiaki Takahashi
 [core]
-        editor = vim
+        editor = vi
 [push]
         default = simple
 [alias]
